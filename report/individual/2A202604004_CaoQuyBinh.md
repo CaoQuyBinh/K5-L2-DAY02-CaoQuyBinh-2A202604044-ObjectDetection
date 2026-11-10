@@ -4,11 +4,11 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
+- Họ tên: Cao Quý Bình
+- MSSV: 2A202604044
+- Email: 26ai.binhcq@vinuni.edu.vn
+- Lớp: L2B 
+- Link repo bài làm: https://github.com/CaoQuyBinh/K5-L2-DAY02-CaoQuyBinh-2A202604044-ObjectDetection.git
 - Link Colab đã chạy:
 
 ## 2. Schema và mini guideline
